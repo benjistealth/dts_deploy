@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.b30bd68c.css",
-    "main.js": "/static/js/main.c9fa22df.js",
+    "main.css": "/static/css/main.4d9648bc.css",
+    "main.js": "/static/js/main.1f29f827.js",
     "static/media/blue_fibre_optics_jj-ying-8bghKxNU1j0-unsplash.jpg": "/static/media/blue_fibre_optics_jj-ying-8bghKxNU1j0-unsplash.a475aa2c46f9faf65663.jpg",
     "index.html": "/index.html",
-    "main.b30bd68c.css.map": "/static/css/main.b30bd68c.css.map",
-    "main.c9fa22df.js.map": "/static/js/main.c9fa22df.js.map"
+    "main.4d9648bc.css.map": "/static/css/main.4d9648bc.css.map",
+    "main.1f29f827.js.map": "/static/js/main.1f29f827.js.map"
   },
   "entrypoints": [
-    "static/css/main.b30bd68c.css",
-    "static/js/main.c9fa22df.js"
+    "static/css/main.4d9648bc.css",
+    "static/js/main.1f29f827.js"
   ]
 }

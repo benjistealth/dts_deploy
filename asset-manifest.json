@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.7c456c3f.css",
-    "main.js": "/static/js/main.b3401bc4.js",
+    "main.js": "/static/js/main.25496442.js",
     "static/media/AI_w_text.png": "/static/media/AI_w_text.076f3b73c4cac478a831.png",
     "static/media/blue_fibre_optics_jj.jpg": "/static/media/blue_fibre_optics_jj.a475aa2c46f9faf65663.jpg",
     "static/media/futureistic_w_text_2.png": "/static/media/futureistic_w_text_2.e4e9ec39bb7b032e8809.png",
+    "static/media/reliability_w_text.png": "/static/media/reliability_w_text.66fb6335349e4255c10b.png",
     "static/media/sunnydays_w_text_2.png": "/static/media/sunnydays_w_text_2.93672b561c23b64f819e.png",
     "static/media/pcb_w_text.png": "/static/media/pcb_w_text.fb6d9cb3bcde897b6fdd.png",
-    "static/media/macbook_with_text_new.png": "/static/media/macbook_with_text_new.825c3beb32c9650b5437.png",
     "index.html": "/index.html",
     "main.7c456c3f.css.map": "/static/css/main.7c456c3f.css.map",
-    "main.b3401bc4.js.map": "/static/js/main.b3401bc4.js.map"
+    "main.25496442.js.map": "/static/js/main.25496442.js.map"
   },
   "entrypoints": [
     "static/css/main.7c456c3f.css",
-    "static/js/main.b3401bc4.js"
+    "static/js/main.25496442.js"
   ]
 }
